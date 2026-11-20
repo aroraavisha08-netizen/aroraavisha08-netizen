@@ -15,6 +15,10 @@
 
 ## Featured Projects
 - DeveloperPortfolio
-
+-  [CSE103 Lab — LAB 3](https://github.com/aroraavisha08-netizen/cse103-lab-LAB3)
+Git workflows, API interaction, and Markdown documentation
+## Currently Working On
+- Semester 1 lab projects and building daily problem-solving habits
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/avisha-arora-118a28431/
+- LinkedIn: https://www.linkedin.com/in/avisha-arora-118a28431
+-  Email : 2601730308@krmu.edu.in
