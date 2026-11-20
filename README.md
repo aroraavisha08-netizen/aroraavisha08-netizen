@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I am Avisha Arora!
 
-<!--
-**aroraavisha08-netizen/aroraavisha08-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech CSE Student at K.R. Mangalam University
+- Currently learning Python, Linux and Git
+- Interested in AI & ML
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python, Bash |
+| Tools | Git, GitHub, VS Code, Linux |
+| Concepts | File Systems, REST APIs, Markdown |
+
+## Featured Projects
+- DeveloperPortfolio
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/avisha-arora-118a28431/
