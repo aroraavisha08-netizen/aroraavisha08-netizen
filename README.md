@@ -12,11 +12,10 @@
 | Languages | Python, Bash |
 | Tools | Git, GitHub, VS Code, Linux |
 | Concepts | File Systems, REST APIs, Markdown |
-
 ## Featured Projects
-- DeveloperPortfolio
--  [CSE103 Lab — LAB 3](https://github.com/aroraavisha08-netizen/cse103-lab-LAB3)
-Git workflows, API interaction, and Markdown documentation
+
+- [DeveloperPortfolio](https://github.com/aroraavisha08-netizen/DeveloperPortfolio) — My personal developer portfolio and CSE103 capstone project.
+- [CSE103 Lab — LAB 3](https://github.com/aroraavisha08-netizen/cse103-lab/LAB3)  — Git workflows, API interaction, and Markdown documentation.
 ## Currently Working On
 - Semester 1 lab projects and building daily problem-solving habits
 ## Connect With Me
